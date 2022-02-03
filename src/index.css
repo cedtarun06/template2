@@ -61,3 +61,17 @@ body {
   
     width: 25%;
   }
+  p {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 0;
+  }
+  #foot {
+    overflow: hidden;
+    display: block;
+    background-color: rgb(204, 204, 204);
+  }
+  #foot-text {
+    float: right;
+    padding: 15px;
+  }
